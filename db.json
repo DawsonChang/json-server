@@ -97,32 +97,6 @@
       "time": "18:00",
       "location": "Green Street",
       "description": "Praesent a finibus urna, vel sollicitudin purus. Proin vel suscipit enim. Aliquam ornare nisi vitae nunc vehicula mollis. Vivamus venenatis tempus tempus. Nunc nulla tellus, pharetra et rhoncus sit amet, bibendum molestie justo. Suspendisse ac sollicitudin felis. "
-    },
-    {
-      "id": 96939,
-      "user": {
-        "id": "abc123",
-        "name": "TS Chang"
-      },
-      "title": "",
-      "amount": "",
-      "date": null,
-      "time": "0:00",
-      "location": "",
-      "description": ""
-    },
-    {
-      "id": 11876,
-      "user": {
-        "id": "abc123",
-        "name": "TS Chang"
-      },
-      "title": "",
-      "amount": "",
-      "date": null,
-      "time": "0:00",
-      "location": "",
-      "description": ""
     }
   ]
 }
